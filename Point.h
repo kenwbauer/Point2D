@@ -1,3 +1,6 @@
+// Ken Bauer
+// example code for my students
+
 #include <string>
 using std::string;
 
